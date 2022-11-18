@@ -8,8 +8,8 @@
       "key":"js豆瓣",
       "name":"🍀公众号:应用多多,更新时间:2022/11/17",
       "type":3,
-      "api":"https://raw.fastgit.org/dick318/duo/main/js/yingmo.js",
-      "ext":"https://raw.fastgit.org/dick318/duo/main/js/douban.js",
+      "api":"https://raw.iqiq.io/dick318/duo/main/js/yingmo.js",
+      "ext":"https://raw.iqiq.io/dick318/duo/main/js/douban.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -22,7 +22,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/ningmeng.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/ningmeng.json"
     },
     {
       "key": "csp_Kunyu77",
@@ -46,8 +46,8 @@
       "key": "drpy_js_看视界",
       "name": "🎉看视界🎉",
       "type": 3,
-      "api": "https://raw.fastgit.org/dick318/duo/main/js/yingmo.js",
-      "ext": "https://raw.fastgit.org/dick318/duo/main/js/ksj.js"
+      "api": "https://raw.iqiq.io/dick318/duo/main/js/yingmo.js",
+      "ext": "https://raw.iqiq.io/dick318/duo/main/js/ksj.js"
     },
     {
       "key": "csp_Nkdy",
@@ -91,7 +91,7 @@
       "type":3,
       "api":"csp_XBiubiu",
       "searchable":1,
-      "quickSearch":1,"ext":"https://raw.fastgit.org/dick318/duo/main/json/naifei.json"
+      "quickSearch":1,"ext":"https://raw.iqiq.io/dick318/duo/main/json/naifei.json"
       },
       {"key":"csp_Lgyy","name":"🌀voflix","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
    {
@@ -102,7 +102,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/Nmys.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/Nmys.json"
     },
     {
       "key": "csp_xpath_独播库",
@@ -112,7 +112,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/duboku.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/duboku.json"
     },
     {
       "key": "XMM",
@@ -149,7 +149,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/789ba.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/789ba.json"
     },
     {
       "key": "py_cctv",
@@ -159,7 +159,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/cctv.py"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/cctv.py"
     },
     {
       "key": "csp_xBPQ_真不卡",
@@ -169,7 +169,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/真不卡.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/真不卡.json"
     },
     {
       "key": "搭讪",
@@ -179,7 +179,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext":"https://raw.fastgit.org/dick318/duo/main/json/dashan.json"
+      "ext":"https://raw.iqiq.io/dick318/duo/main/json/dashan.json"
     },
     {
       "key": "搭配",
@@ -189,7 +189,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/duodapei.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/duodapei.json"
     },
     {
       "key": "csp_XBPQ极品影视",
@@ -199,7 +199,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/极品影视.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/极品影视.json"
     },
     {
       "key": "py_czspp",
@@ -209,7 +209,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/czspp2.py"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/czspp2.py"
     },
     {
       "key": "csp_CZSPP",
@@ -334,7 +334,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/厂长资源.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/厂长资源.json"
     },
     {
       "key": "csp_biubiu_骚火电影",
@@ -344,7 +344,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
     {
 		"key": "py_libvio",
@@ -354,7 +354,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.fastgit.org/dick318/duo/main/json/pylibvio.py"
+		"ext": "https://raw.iqiq.io/dick318/duo/main/json/pylibvio.py"
 	},
     {
       "key": "csp_xb_lib",
@@ -392,7 +392,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://raw.fastgit.org/dick318/duo/main/json/bdys.json"
+      "ext":"https://raw.iqiq.io/dick318/duo/main/json/bdys.json"
     },
     {
       "key": "csp_biubiu_剧白白-蓝光",
@@ -402,7 +402,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/剧白白-蓝光.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/剧白白-蓝光.json"
     },
     {
       "key":"csp_Dy1010",
@@ -475,7 +475,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/voflix.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/voflix.json"
     },
     {
       "key": "csp_Anime1",
@@ -494,7 +494,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/tingshu.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/tingshu.json"
     },
     {
       "key":"csp_XPath_鹅直播",
@@ -514,17 +514,17 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/17%E7%9C%8B%E7%90%83.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/17%E7%9C%8B%E7%90%83.json"
     },
     {
       "key": "dr_88看球",
       "name": "🏀88看球",
       "type": 3,
-      "api": "https://raw.fastgit.org/dick318/duo/main/js/drpymin.js",
+      "api": "https://raw.iqiq.io/dick318/duo/main/js/drpymin.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/js/88%E7%9C%8B%E7%90%83.js"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/js/88%E7%9C%8B%E7%90%83.js"
     },
     {
       "key": "csp_XYQBiu_310直播",
@@ -534,7 +534,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/310%E7%9B%B4%E6%92%AD.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/310%E7%9B%B4%E6%92%AD.json"
     },
     {
       "key": "JRS看球网",
@@ -544,7 +544,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/JRS%E7%9C%8B%E7%90%83%E7%BD%91.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/JRS%E7%9C%8B%E7%90%83%E7%BD%91.json"
     },
     {
       "key": "csp_xBPQ_抓饭体育",
@@ -561,11 +561,11 @@
       "key": "dr_JRKAN直播",
       "name": "🏀JRK直播",
       "type": 3,
-      "api": "https://raw.fastgit.org/dick318/duo/main/js/drpymin.js",
+      "api": "https://raw.iqiq.io/dick318/duo/main/js/drpymin.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/js/JRKAN.js"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/js/JRKAN.js"
     },
     {
       "key": "csp_Bili",
@@ -575,7 +575,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/Bili/bili.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/Bili/bili.json"
     },
     {
       "key":"csp_Biliych",
@@ -585,7 +585,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext":"https://raw.fastgit.org/dick318/duo/main/Bili/演唱会.json"
+      "ext":"https://raw.iqiq.io/dick318/duo/main/Bili/演唱会.json"
     }, 
     	{
             "key" : "py_youer",
@@ -595,7 +595,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.fastgit.org/dick318/duo/main/Bili/youer.py"
+            "ext" : "https://raw.iqiq.io/dick318/duo/main/Bili/youer.py"
         }, 
         {
             "key" : "py_xiaoxue",
@@ -605,7 +605,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.fastgit.org/dick318/duo/main/Bili/xiaoxue.py"
+            "ext" : "https://raw.iqiq.io/dick318/duo/main/Bili/xiaoxue.py"
         }, {
             "key" : "py_czxx",
             "name" : "🅱️初中教育",
@@ -614,7 +614,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.fastgit.org/dick318/duo/main/Bili/chuzhong.py"
+            "ext" : "https://raw.iqiq.io/dick318/duo/main/Bili/chuzhong.py"
         }, {
             "key" : "py_gaozxx",
             "name" : "🅱️高中教育",
@@ -623,7 +623,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.fastgit.org/dick318/duo/main/Bili/gaozhong.py"
+            "ext" : "https://raw.iqiq.io/dick318/duo/main/Bili/gaozhong.py"
         }, {
             "key" : "py_xuqu1",
             "name" : "🅱️戏曲合集",
@@ -632,7 +632,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.fastgit.org/dick318/duo/main/Bili/xiqu.py"
+            "ext" : "https://raw.iqiq.io/dick318/duo/main/Bili/xiqu.py"
         }, {
             "key" : "py_TYjs",
             "name" : "🅱️体育健身",
@@ -641,7 +641,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.fastgit.org/dick318/duo/main/Bili/tiyu.py"
+            "ext" : "https://raw.iqiq.io/dick318/duo/main/Bili/tiyu.py"
         }, {
             "key" : "py_xiangsh",
             "name" : "🅱️相声小品",
@@ -650,7 +650,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.fastgit.org/dick318/duo/main/Bili/xiaopin.py"
+            "ext" : "https://raw.iqiq.io/dick318/duo/main/Bili/xiaopin.py"
         }, {
             "key" : "py_FBqx",
             "name" : "🅱️球队球星",
@@ -659,7 +659,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.fastgit.org/dick318/duo/main/Bili/qiudui.py"
+            "ext" : "https://raw.iqiq.io/dick318/duo/main/Bili/qiudui.py"
         },  {
             "key" : "py_Meinvw",
             "name" : "🅱️美女热舞",
@@ -668,7 +668,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.fastgit.org/dick318/duo/main/Bili/meinv.py"
+            "ext" : "https://raw.iqiq.io/dick318/duo/main/Bili/meinv.py"
         }, {
             "key" : "py_yanchh",
             "name" : "🅱️歌手合集",
@@ -677,7 +677,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.fastgit.org/dick318/duo/main/Bili/geshou.py"
+            "ext" : "https://raw.iqiq.io/dick318/duo/main/Bili/geshou.py"
         }, {
             "key" : "py_Nvtuan",
             "name" : "🅱️女团热舞",
@@ -686,7 +686,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.fastgit.org/dick318/duo/main/Bili/nvtuan.py"
+            "ext" : "https://raw.iqiq.io/dick318/duo/main/Bili/nvtuan.py"
         }, {
             "key" : "py_MTV",
             "name" : "🅱️歌曲MTV",
@@ -695,7 +695,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.fastgit.org/dick318/duo/main/Bili/mtv.py"
+            "ext" : "https://raw.iqiq.io/dick318/duo/main/Bili/mtv.py"
         }, {
             "key" : "py_Yinl2",
             "name" : "🅱️音乐合集",
@@ -704,7 +704,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.fastgit.org/dick318/duo/main/Bili/yinyue.py"
+            "ext" : "https://raw.iqiq.io/dick318/duo/main/Bili/yinyue.py"
         }, 
         {
             "key" : "py_Bzjc",
@@ -714,7 +714,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" : "https://raw.fastgit.org/dick318/duo/main/Bili/ruanjian.py"
+            "ext" : "https://raw.iqiq.io/dick318/duo/main/Bili/ruanjian.py"
         }, 
        {
       "key": "美食",
@@ -724,7 +724,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
     },
     {
       "key": "短视频聚合",
@@ -734,7 +734,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"
     },
     {
       "key": "csp_Yj1211",
@@ -753,7 +753,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.fastgit.org/dick318/duo/main/json/pyhuya.py"
+		"ext": "https://raw.iqiq.io/dick318/duo/main/json/pyhuya.py"
 	},
   {
     "key":"csp_XYQBiu_虎牙直播",
@@ -763,7 +763,7 @@
     "searchable":0,
     "quickSearch":0,
     "filterable":0,
-    "ext":"https://raw.fastgit.org/dick318/duo/main/json/%E8%99%8E%E7%89%99.json"
+    "ext":"https://raw.iqiq.io/dick318/duo/main/json/%E8%99%8E%E7%89%99.json"
     },
  {
 		"key": "py_douyu",
@@ -773,7 +773,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://raw.fastgit.org/dick318/duo/main/json/pydouyu.py"
+		"ext": "https://raw.iqiq.io/dick318/duo/main/json/pydouyu.py"
 	},
  {
       "key": "csp_biubiu_斗鱼",
@@ -783,7 +783,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E6%96%97%E9%B1%BC.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E6%96%97%E9%B1%BC.json"
     },
     {
       "key": "网易CC",
@@ -793,7 +793,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E7%BD%91%E6%98%93CC.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E7%BD%91%E6%98%93CC.json"
     },
     {
       "key": "csp_xpath_酷狗MV",
@@ -803,7 +803,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E9%85%B7%E7%8B%97MV.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E9%85%B7%E7%8B%97MV.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -813,7 +813,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E9%85%B7%E5%A5%87MV.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E9%85%B7%E5%A5%87MV.json"
     },
     {
       "key": "csp_Alist",
@@ -823,7 +823,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/Alist.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/Alist.json"
     },
     {
       "key": "csp_bendi",
@@ -843,7 +843,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://raw.fastgit.org/dick318/duo/main/jar/ali.zip"
+      "jar":"https://raw.iqiq.io/dick318/duo/main/jar/ali.zip"
     },
     {
       "key": "csp_Zhaozy",
@@ -854,7 +854,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://raw.fastgit.org/dick318/duo/main/jar/sou.jar"
+      "jar":"https://raw.iqiq.io/dick318/duo/main/jar/sou.jar"
     },
     {
       "key": "csp_Yisou",
@@ -865,7 +865,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://raw.fastgit.org/dick318/duo/main/jar/sou.jar"
+      "jar":"https://raw.iqiq.io/dick318/duo/main/jar/sou.jar"
     },
     {
       "key": "csp_AliPS",
@@ -876,7 +876,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://raw.fastgit.org/dick318/duo/main/jar/sou.jar"
+      "jar":"https://raw.iqiq.io/dick318/duo/main/jar/sou.jar"
     },
     {
       "key": "push_agent",
@@ -887,7 +887,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext":"5e8a0d48c3f4486a843351c716c1af66",
-      "jar":"https://raw.fastgit.org/dick318/duo/main/jar/sou.jar"
+      "jar":"https://raw.iqiq.io/dick318/duo/main/jar/sou.jar"
     },
    {
       "key": "csp_xpath_yinfans",
@@ -897,7 +897,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://raw.fastgit.org/dick318/duo/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
+      "ext":"https://raw.iqiq.io/dick318/duo/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
     },
     {
       "key": "bdys",
@@ -907,7 +907,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E7%A3%81%E5%8A%9B.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E7%A3%81%E5%8A%9B.json"
     },
     {
       "key": "csp_biubiu_在线之家",
@@ -917,7 +917,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
     },
     {
       "key": "csp_XBiubiu_大米星球",
@@ -927,7 +927,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.json"
     },
     {
       "key": "csp_xpath_chinatv",
@@ -937,7 +937,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1.json"
     },
     {
       "key": "csp_xp_jLgyy",
@@ -947,7 +947,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
     },
     {
       "key": "不卡影院",
@@ -957,7 +957,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E4%B8%8D%E5%8D%A1%E5%BD%B1%E9%99%A2.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E4%B8%8D%E5%8D%A1%E5%BD%B1%E9%99%A2.json"
     },
     {
       "key": "干饭影视",
@@ -967,7 +967,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E5%B9%B2%E9%A5%AD%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E5%B9%B2%E9%A5%AD%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "口袋影院",
@@ -977,7 +977,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E5%8F%A3%E8%A2%8B%E5%BD%B1%E9%99%A2.json"
     },
     {
       "key": "花猫影视",
@@ -987,7 +987,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E8%8A%B1%E7%8C%AB%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "利奥影院",
@@ -997,7 +997,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E5%88%A9%E5%A5%A5%E5%BD%B1%E9%99%A2.json"
     },
     {
       "key": "焦炭影视",
@@ -1007,7 +1007,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E7%84%A6%E7%82%AD%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E7%84%A6%E7%82%AD%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_biubiu_蓝莓影视",
@@ -1017,7 +1017,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E8%93%9D%E8%8E%93%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E8%93%9D%E8%8E%93%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "六度影视",
@@ -1027,7 +1027,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E5%85%AD%E5%BA%A6%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E5%85%AD%E5%BA%A6%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_biubiu_dadagui",
@@ -1037,7 +1037,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"
     },
     {
       "key": "csp_XBiubiu_饭团HD",
@@ -1047,7 +1047,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E9%A5%AD%E5%9B%A2HD.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E9%A5%AD%E5%9B%A2HD.json"
     },
     {
       "key": "csp_XBiubiu_TVB云播",
@@ -1057,7 +1057,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/tvb%E4%BA%91%E6%92%AD.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/tvb%E4%BA%91%E6%92%AD.json"
     },
     {
       "key": "COKEMV",
@@ -1067,7 +1067,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/COKEMV.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/COKEMV.json"
     },
     {
       "key": "Auete影视",
@@ -1077,7 +1077,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/Auete%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/Auete%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_XBiubiu哔嘀影视",
@@ -1087,7 +1087,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "云播看看",
@@ -1097,7 +1097,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E4%BA%91%E6%92%AD%E7%9C%8B%E7%9C%8B.json"
     },
     {
       "key": "小强影迷",
@@ -1107,7 +1107,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E5%B0%8F%E5%BC%BA%E5%BD%B1%E8%BF%B7.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E5%B0%8F%E5%BC%BA%E5%BD%B1%E8%BF%B7.json"
     },
     {
       "key": "人人影视",
@@ -1117,7 +1117,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "三九影视",
@@ -1127,7 +1127,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_XBiubiu_金眼影视",
@@ -1137,7 +1137,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_XBiubiu_Nike影视",
@@ -1147,7 +1147,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/Nike%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/Nike%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "去看动漫",
@@ -1157,7 +1157,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E5%8E%BB%E7%9C%8B%E5%8A%A8%E6%BC%AB.json"
     },
     {
       "key": "动漫直链",
@@ -1167,7 +1167,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E5%8A%A8%E6%BC%AB%E7%9B%B4%E9%93%BE.json"
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -1177,7 +1177,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
     },
     {
       "key": "csp_xpath___动漫巴士",
@@ -1187,7 +1187,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
     },
     {
       "key": "csp_biubiu_OmoFun动漫",
@@ -1197,7 +1197,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/OmoFun%E5%8A%A8%E6%BC%AB.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/OmoFun%E5%8A%A8%E6%BC%AB.json"
     },
     {
       "key": "9E03",
@@ -1527,7 +1527,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/555%E7%94%B5%E5%BD%B1.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/555%E7%94%B5%E5%BD%B1.json"
     },
     {
       "key": "波比影视",
@@ -1545,7 +1545,7 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 0,
-       "ext": "https://raw.fastgit.org/dick318/duo/main/json/0855%E5%BD%B1%E8%A7%86.json"
+       "ext": "https://raw.iqiq.io/dick318/duo/main/json/0855%E5%BD%B1%E8%A7%86.json"
         },
     {
       "key": "csp_XYQHiker_冷曦影视",
@@ -1555,7 +1555,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/dick318/duo/main/json/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.iqiq.io/dick318/duo/main/json/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json"
        },
    {
      "key": "ASMR",
@@ -1566,7 +1566,7 @@
      "quickSearch": 0
         }
   ],
-  "spider": "https://raw.fastgit.org/dick318/duo/main/jar/duov.jar;md5;89c9eaec380dc16ec274b772346270ba",
+  "spider": "https://raw.iqiq.io/dick318/duo/main/jar/duov.jar;md5;89c9eaec380dc16ec274b772346270ba",
   "wallpaper": "https://www.yydsys.top/api.php",
   "lives": [
     {
