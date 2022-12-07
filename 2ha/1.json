@@ -6,7 +6,7 @@
 // 我的 --> 设置 -->  配置地址 --> 请输入 http://0454dt.com/tvbox 或者 http://2ha.cc/tv  --> 确定
 
 {
-  "spider": "https://raw.iqiq.io/dick318/xianlu/main/2ha/csp.jar;md5;c9d75e45b5787511f5f35981c72e225e",
+  "spider": "https://raw.fastgit.org/dick318/xianlu/main/2ha/csp.jar;md5;c9d75e45b5787511f5f35981c72e225e",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {

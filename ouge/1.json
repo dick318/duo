@@ -1,7 +1,7 @@
 //🇨🇳欧歌整合本接口
 {
   "wallpaper":"http://tv.nxog.top/api/api/t",
-  "spider": "https://raw.iqiq.io/dick318/xianlu/main/ouge/csp.jar;md5;31e713733524a6f59a53e8bc7641697d",
+  "spider": "https://raw.fastgit.org/dick318/xianlu/main/ouge/csp.jar;md5;31e713733524a6f59a53e8bc7641697d",
   "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3R2Lm54b2cudG9wL20vdHY="]}]}],
   "sites": [
 

@@ -3,7 +3,7 @@
   "dr_count": 119,
   "mode": 1,
   //  "spider": "http://101.34.67.237/files/custom_spider_tang.jar",
-  "spider": "https://raw.iqiq.io/dick318/xianlu/main/daozhang/custom_spider_tang.jar;md5;7b3db472894cc021c4b19daa26e1282a",
+  "spider": "https://raw.fastgit.org/dick318/xianlu/main/daozhang/custom_spider_tang.jar;md5;7b3db472894cc021c4b19daa26e1282a",
   "drives": [
     {
       "name": "小雅的Alist",
