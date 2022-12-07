@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.fastgit.org/dick318/xianlu/main/gaotianliuyun/xo.jar;md5;e80798750eca57470f29d1942bce39bb",
+  "spider":"https://ghproxy.net/https://raw.githubusercontent.com/dick318/xianlu/main/gaotianliuyun/xo.jar;md5;e80798750eca57470f29d1942bce39bb",
   "lives": [
     {
       "name": "综合一",

@@ -1,6 +1,6 @@
 {
   //0730JAR
-  "spider": "https://raw.fastgit.org/dick318/xianlu/main/yueguang/888.jar;md5;86A2E6D82742D949C4FDC0B981085655",
+  "spider":"https://ghproxy.net/https://raw.githubusercontent.com/dick318/xianlu/main/yueguang/888.jar;md5;86A2E6D82742D949C4FDC0B981085655",
   "lives": [
     {
       "group": "redirect",
