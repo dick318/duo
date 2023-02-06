@@ -4,7 +4,8 @@
   "sites": [
     {
       "key":"js豆瓣",
-      "name":"20230206更新 🏮公众号：多多应用汇，",
+       //20230206更新
+      "name":"🏮公众号：多多应用汇",
       "type":3,
       "api":"https://jihulab.com/duomv/duo/-/raw/main/js/drpymin.js",
       "ext":"https://jihulab.com/duomv/duo/-/raw/main/js/douban.js",
