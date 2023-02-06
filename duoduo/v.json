@@ -2032,5 +2032,6 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://leevi.ct8.pl/bg.php",
-  "spider":"https://ghproxy.net/https://raw.githubusercontent.com/dick318/xianlu/main/duoduo/jar/duov.jar;md5;343216A05450E2DA65A05B07AA2BD64F"
+  //"spider":"https://ghproxy.net/https://raw.githubusercontent.com/dick318/xianlu/main/duoduo/jar/duov.jar;md5;343216A05450E2DA65A05B07AA2BD64F"
+  "spider":"https://raw.iqiq.io/dick318/xianlu/main/duoduo/jar/duov.jar;md5;343216A05450E2DA65A05B07AA2BD64F"
 }
